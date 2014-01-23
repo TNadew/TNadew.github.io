@@ -1,0 +1,80 @@
+h1,h2,h3,ul#navigation-menu li:hover a span,
+ul#navigation-menu li a.active span,
+ul#documents-menu li a,
+ul#blog-menu li a:hover,
+ul#blog-menu li a.active,
+div.text-field div.text-field-right div.title a:hover,
+div.twit-field div.twit-link a,
+div.comment-meta div.link {
+    color: #3FB2EB;
+}
+
+ul#navigation-menu li:hover,
+ul#navigation-menu li.active,
+ul#portfolio-menu li a:hover,
+ul#portfolio-menu li a.current,
+div.position,
+span.progress-count,
+a.archiv,
+div.text-field div.text-field-left,
+div.image-field div.image a,
+div.image-field div.image span,
+div.blog-image div.blog-postdate,
+div.social-like,
+form#contact div#send input,
+form#comment div#comment-send input,
+div.some-link {
+    background-color: #3FB2EB;
+}
+
+div.text-field.blog div.text-field-right {
+    border-left: 3px solid #3FB2EB;
+}
+
+body {
+    background-image: url(../images/blue/bg.jpg);
+}
+
+ul#blog-menu li a {
+    background: url(../images/blue/arrow.png) left center no-repeat;
+}
+
+div.roll-with-description.hide div.roll-button span {
+    background: url(../images/blue/plus-minus.png) 0 0;
+}
+
+div.roll-with-description.show div.roll-button span {
+    background: url(../images/blue/plus-minus.png) 0 -20px;
+}
+
+div.meta span.author {
+    background: url(../images/blue/icons/user.png) 1px 3px no-repeat;
+}
+
+div.meta span.tag {
+    background: url(../images/blue/icons/tag.png) 1px 3px no-repeat;
+}
+
+div.meta a.back {
+    background: url(../images/blue/icons/back.png) 2px 5px no-repeat;
+}
+
+div.contact-field.address {
+    background: url(../images/blue/icons/user.png) 0 6px  no-repeat;
+}
+
+div.contact-field.phone {
+    background: url(../images/blue/icons/phone.png) 2px 4px  no-repeat;
+}
+
+div.contact-field.mail {
+    background: url(../images/blue/icons/mail.png) 0 7px  no-repeat;
+}
+
+input[name='search-button'] {
+    background: url(../images/blue/search-button.png) -40px 0 no-repeat;
+}
+
+input[name='search-button']:hover {
+    background: url(../images/blue/search-button.png) 0 0 no-repeat;
+}
